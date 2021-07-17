@@ -1,2 +1,9 @@
 # blog-KD
  🎮  A blog website built w/Bootstrap3
+
+# Review 
+<h3>⚫ Desktop</h3>
+<img src="https://github.com/aleynaben/blog-kd/blob/master/img/blog-web.gif">
+
+<h3>⚫ Mobile</h3>
+<img src="https://github.com/aleynaben/ecommerce-TTur/blob/master/img/mobile-view.gif">
