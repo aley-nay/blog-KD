@@ -6,4 +6,4 @@
 <img src="https://github.com/aleynaben/blog-kd/blob/main/img/blog-web.gif">
 
 <h3>⚫ Mobile</h3>
-<img src="https://github.com/aleynaben/ecommerce-TTur/blob/master/img/mobile-view.gif">
+<img src="https://github.com/aleynaben/blog-kd/blob/main/img/blog-mobile.gif">
